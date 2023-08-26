@@ -1,0 +1,6 @@
+Non access modifiers
+
+static
+final
+volatile
+native
