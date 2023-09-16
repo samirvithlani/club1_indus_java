@@ -4,3 +4,8 @@ static
 final
 volatile
 native
+
+
+abstraction : ->
+using abstract class and interface...
+cpp virtual function....
