@@ -1,0 +1,5 @@
+..find max no  using user dine method int max(int a[]) return max no from array
+..find second...largest  using user dine method int max(int a[]) return max no from array
+
+sort array without using builtin function... apply any algo
+
