@@ -1,0 +1,28 @@
+//String --->
+
+pri  non pri...
+
+array ,String
+
+String class and non prim...
+
+mutable immutable..
+
+immutable -->
+
+String str ="java" -->
+str = "java1"
+
+lang = "java" -->
+Sttinglang2
+
+1)length()
+2)charAt
+3)indexOf
+4)lastINdexOf
+5)codePointAt
+6)uppar
+7)lower
+8)concat
+9)trim
+

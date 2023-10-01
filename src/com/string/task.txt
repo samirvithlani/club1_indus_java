@@ -1,0 +1,8 @@
+1)
+	find no of accourance of specfic char in string...
+	"hi this is India"
+
+	'i'
+	
+	2)without using builtin function upper case and lower case...
+	-->
