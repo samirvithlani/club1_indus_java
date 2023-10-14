@@ -1,0 +1,44 @@
+//exception handling....
+
+Error    										Exception
+ protocol based miskates...          run time or compile 
+ int a								 exception need handle
+ Int 1									
+ 
+ if{ error
+ 
+ resolve....
+ 
+ run -->
+ 
+ compile time....
+
+ 
+ 								Throwable []
+ 								
+ 	Error															Exception
+ 	
+ 	No child class													  RuntimeException
+ 																			Arith..
+ 	                                                                  IOEx
+ 	                                                                  
+ways to handle exception:
+
+
+1)using try catch and finally block ....
+2)using throws key word..
+
+type of exception in java:
+1)compile time exception  / checked exception 
+2)run time  // uncheckd exception...
+
+
+
+
+
+
+
+
+ 	                                                                  
+
+ 	                                                                   							
