@@ -34,6 +34,11 @@ type of exception in java:
 
 
 
+compile time
+
+builtin class or us dedfine class' method  exception throws
+
+
 
 
 
