@@ -1,0 +1,27 @@
+File: class -->
+
+java.nio
+
+
+java.io.*
+
+high level class    low level classes
+word,char,line	       byte,stream
+
+Reader					Stream
+							InputStream
+									FileInputStream
+							OutputStream	
+									FileOutputStream
+  FileReade
+  BufferedRead
+ 
+Writer
+ FileWrite
+ BufferedWriter
+ ....  
+ 
+ 
+ 
+ relativepath
+ abs path
