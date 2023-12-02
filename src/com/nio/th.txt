@@ -1,0 +1,10 @@
+Path interface...
+Paths class
+Files class
+
+
+if source file NoSuch
+
+desti file --> already file...
+
+source folder is not available...
