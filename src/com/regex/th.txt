@@ -1,0 +1,9 @@
+REGEX CHARECTER CLASSES...
+1)[abc]
+2)[^abc] --> except a b c
+3)[A-Za-z] --> 
+4)[0-9]
+5)[a-e[r-z]]
+6)[a-z&&[def]]
+7)[a-z&&[^st]]
+8)[a-z&&[^p-u]]
