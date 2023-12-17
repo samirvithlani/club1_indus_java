@@ -7,3 +7,13 @@ REGEX CHARECTER CLASSES...
 6)[a-z&&[def]]
 7)[a-z&&[^st]]
 8)[a-z&&[^p-u]]
+
+--------------------------
+
+Regex Quantifiers
+
+? -> occurs once or not all [abc]?
++ --> occurs once or more [abc]+
+* --> zero or more. []
+{8}
+{8,} min 8 max no limnt
