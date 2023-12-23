@@ -17,3 +17,18 @@ Regex Quantifiers
 * --> zero or more. []
 {8}
 {8,} min 8 max no limnt
+
+
+regex meta character:
+. ---> ..s pps
+\d --> [0-9]
+\D --> [^0-9]
+\s -->[\t\n\r]
+\S --> []
+\w ->[A-Za-z0-9_]
+\w ->[^A-Za-z0-9_]
+
+
+
+
+
