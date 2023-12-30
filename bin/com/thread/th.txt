@@ -1,0 +1,36 @@
+multi Threading...
+
+2 type of programmings are there 
+
+
+1)process based programming
+	
+1 proecss over --> 2 nd over... cut --> paste...
+laptop --> eclipse -->
+
+2) thread based prog...
+
+	multipule process can run siml....
+	eclips, notepad,zoom
+
+ec,note,zoom --->CPU[Schedular -->]
+
+Thread Schedular -->JVM
+
+create Threads -->
+
+Runnable [i] --> [public void run()]
+
+Thread --> run()
+
+java main ---> thread...
+
+
+
+
+
+
+
+
+
+
