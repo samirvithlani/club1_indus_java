@@ -1,6 +1,7 @@
 package com.thread;
 
-public class ThreadDemo5 extends Thread {
+public class ThreadDemo5 extends Thread
+ {
 
 	@Override
 	public void run() {
@@ -23,12 +24,7 @@ public class ThreadDemo5 extends Thread {
 		
 		
 		t1.start();
-		try {
-			t1.join();
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+		
 		t2.start();
 		try {
 			t2.join();
