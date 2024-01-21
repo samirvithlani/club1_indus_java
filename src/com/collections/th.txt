@@ -1,0 +1,29 @@
+Collection Framework:
+
+what is framework ?
+it is pre define arch given and we have to just reuse that...
+java.util
+
+
+							Iterable [i]
+							
+							Collection[i]
+							
+Ordered                unorderd                    unordered [key:value]      unodered..
+List                    Set							Map 						Queue 	
+
+ArrayList             TreeSet                       TreeMap                   PriorityQueue
+LinkedList            HashSet                       HashMap                   LinkedList
+Vector	
+
+Array --> size fix -> simiat element
+Dynamic array
+
+List)
+1)list is ordered
+2)list allows duplicate elm
+3)list allows null elem
+4)list is iterable
+5)list is subscribtable 								
+
+							
