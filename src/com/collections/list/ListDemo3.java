@@ -30,11 +30,15 @@ public class ListDemo3 {
 		students.add(s2);
 		students.add(new Student(103, "lakshman"));
 		
-		
-		for(Student s:students) {
+		for(int i=0;i<students.size();i++) {
 			
-			System.out.println(s.sId + " " +s.sName);
+			System.out.println(students.get(i).sId + " - "+students.get(i).sName);
 		}
+		
+//		for(Student s:students) {
+//			
+//			System.out.println(s.sId + " " +s.sName);
+//		}
 		
 		
 		
