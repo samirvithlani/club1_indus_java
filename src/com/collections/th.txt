@@ -24,6 +24,21 @@ List)
 2)list allows duplicate elm
 3)list allows null elem
 4)list is iterable
-5)list is subscribtable 								
+5)list is subscribtable 
+
+
+id
+name
+marks.
+
+Student type List<Strudent>
+
+
+print name marks steream --> 50 >
+
+
+
+
+								
 
 							
